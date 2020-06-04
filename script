@@ -1,0 +1,5 @@
+set title "Word search"
+set xlabel "No of Threads"
+set ylabel "Time"
+plot "output.txt" with lines
+pause -1 "Hit any key to continue"
